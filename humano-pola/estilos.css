@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Tagalog&family=Pixelify+Sans&display=swap');
+    
+
+h1{
+
+   font-family: 'Pixelify Sans', sans-serif;
+   text-align: center;
+}
+  a {
+      color: lightskyblue ; 
+      font-family: 'Pixelify Sans', sans-serif;
+  }
+p, li, h2{
+    font-family: 'Pixelify Sans', sans-serif;
+}
+.boton:hover{
+background-color: rgb(193, 244, 228);
+font-size: x-large;
+}
+
+
+
+.imagen:hover{
+ 
+  height: 150px;
+  width: 150px;
+  transform: translate(50px);
+  transition: all 2s;    
+}
